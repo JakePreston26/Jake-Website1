@@ -1,0 +1,121 @@
+img{
+	height: 350px;
+	width: 380px;
+	border: 3px solid white;
+	border-radius: 100%;
+}
+
+.Home{
+	background-image: url("http://blog.fitsnack.com/wp-content/uploads/2017/09/chalk-board-background.jpg");
+	background-size: 2000px 2000px;
+	font-size: 22px;
+	cursor: grab;
+}
+	.home1{
+		color: white;
+		font-family: cursive;
+	}
+	.home2{
+		color: white;
+		font-family: cursive;
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+th{
+	Font-size:20px;
+}
+
+.line{
+	border: 4px solid white;
+	border-radius: 100%;
+}
+
+.English{
+	background-image: url("http://blog.fitsnack.com/wp-content/uploads/2017/09/chalk-board-background.jpg");
+	background-size: 2000px 2000px;
+	font-family: cursive;
+	color: white;
+	padding-left: 300px;
+	padding-right: 300px;
+	font-size: 22px;
+	cursor: grab;
+}
+	.shoe{
+		transform: rotate(25deg);
+	}
+	.header{
+		font-size: 40px;
+	}
+	.back{
+		height: 20px;
+		width: 20px;
+	}
+	
+.Graphic{
+	background-image: url("http://blog.fitsnack.com/wp-content/uploads/2017/09/chalk-board-background.jpg");
+	background-size: 2000px 2000px;
+	font-family: cursive;
+	color: white;
+	padding-left: 300px;
+	padding-right: 300px;
+	font-size: 22px;
+	cursor: grab;
+}
+	.Graphic1{
+		background-size: 2000px 2000px;
+		font-family: cursive;
+		color: white;
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+	.Photo{
+		transform: rotate(90deg);
+		margin: 50px;
+	}
+
+.History{
+	background-image: url("http://blog.fitsnack.com/wp-content/uploads/2017/09/chalk-board-background.jpg");
+	background-size: 2000px 2000px;
+	font-family: cursive;
+	color: white;
+	padding-left: 300px;
+	padding-right: 300px;
+	font-size: 22px;
+	cursor: grab;
+}
+	.DBQ{
+		height: 600px;
+		width: 700px;
+	}
+
+.Math{
+	background-image: url("http://blog.fitsnack.com/wp-content/uploads/2017/09/chalk-board-background.jpg");
+	background-size: 2000px 2000px;
+	font-family: cursive;
+	color: white;
+	padding-left: 300px;
+	padding-right: 300px;
+	font-size: 22px;
+	cursor: grab;
+}
+	.Desmos{
+		cursor:cell;
+	}
+
+.Chemistry{
+	background-image: url("http://blog.fitsnack.com/wp-content/uploads/2017/09/chalk-board-background.jpg");
+	background-size: 2000px 2000px;
+	font-family: cursive;
+	color: white;
+	padding-left: 300px;
+	padding-right: 300px;
+	font-size: 22px;
+	cursor: grab;
+}
+
+
+
+
+	
+
